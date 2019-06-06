@@ -3,7 +3,7 @@
 ## Preface
 For my first personal project, I decided to explore the [Graduate Admission](https://www.kaggle.com/mohansacharya/graduate-admissions) dataset from Kaggle. 
 
-This was to get comfortable with common EDA techniques and employ typical machine learning algorithms to determine the chance of admission for each student.
+This was to get comfortable with common EDA techniques and employ typical machine learning algorithms to determine admission for each student.
 
 ## Objective
 400 applicants have been surveyed as potential students for UCLA. The university weighs certain aspects of a student's education to determine their acceptance.
